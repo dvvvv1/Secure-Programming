@@ -2,5 +2,5 @@
 This repository contains the trial implementations for programming security. 
 
 Including:
-* Fuzzing
-* Side-Channel Attack
+* Fuzzing tools and prac
+* Side-Channel Attacks
