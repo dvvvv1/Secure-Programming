@@ -1,0 +1,8 @@
+Starting program: /home/puzhiyao/2016/Secure Programming/Assignment1/Test/comp/encoder in_dir/2137-example.png test.jpg 50
+
+Program received signal SIGSEGV, Segmentation fault.
+__memcpy_sse2_unaligned () at ../sysdeps/x86_64/multiarch/memcpy-sse2-unaligned.S:116
+116	../sysdeps/x86_64/multiarch/memcpy-sse2-unaligned.S: No such file or directory.
+
+Program terminated with signal SIGSEGV, Segmentation fault.
+The program no longer exists.

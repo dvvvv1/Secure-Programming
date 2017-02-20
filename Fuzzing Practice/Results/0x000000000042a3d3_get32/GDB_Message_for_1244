@@ -1,0 +1,9 @@
+Starting program: /home/puzhiyao/2016/Secure Programming/Assignment1/Test/comp/encoder in_dir/1244-example.png test.jpg 50
+
+Program received signal SIGSEGV, Segmentation fault.
+0x000000000042a3d3 in get32(stbi*) ()
+Single stepping until exit from function _ZL5get32P4stbi,
+which has no line number information.
+
+Program terminated with signal SIGSEGV, Segmentation fault.
+The program no longer exists.

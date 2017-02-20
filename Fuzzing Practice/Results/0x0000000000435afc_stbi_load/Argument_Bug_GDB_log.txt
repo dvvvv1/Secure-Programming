@@ -1,0 +1,51 @@
+Starting program: /home/puzhiyao/2016/Secure Programming/Assignment1/Test/comp/encoder in_argument/cTòi^g test.jpg 50
+
+Program received signal SIGSEGV, Segmentation fault.
+0x0000000000435afc in stbi_load ()
+Single stepping until exit from function stbi_load,
+which has no line number information.
+
+Program terminated with signal SIGSEGV, Segmentation fault.
+The program no longer exists.
+Starting program: /home/puzhiyao/2016/Secure Programming/Assignment1/Test/comp/encoder in_argument/Rtri~e test.jpg 50
+
+Program received signal SIGSEGV, Segmentation fault.
+0x0000000000435afc in stbi_load ()
+Single stepping until exit from function stbi_load,
+which has no line number information.
+
+Program terminated with signal SIGSEGV, Segmentation fault.
+The program no longer exists.
+Starting program: /home/puzhiyao/2016/Secure Programming/Assignment1/Test/comp/encoder in_argument/Sdrang test.jpg 50
+
+Program received signal SIGSEGV, Segmentation fault.
+0x0000000000435afc in stbi_load ()
+Single stepping until exit from function stbi_load,
+which has no line number information.
+
+Program terminated with signal SIGSEGV, Segmentation fault.
+The program no longer exists.
+Starting program: /home/puzhiyao/2016/Secure Programming/Assignment1/Test/comp/encoder in_argument/Stcanm test.jpg 50
+
+Program received signal SIGSEGV, Segmentation fault.
+0x0000000000435afc in stbi_load ()
+Single stepping until exit from function stbi_load,
+which has no line number information.
+
+Program terminated with signal SIGSEGV, Segmentation fault.
+The program no longer exists.
+Starting program: /home/puzhiyao/2016/Secure Programming/Assignment1/Test/comp/encoder in_argument/Stckfg test.jpg 50
+
+Program received signal SIGSEGV, Segmentation fault.
+0x0000000000435afc in stbi_load ()
+The program being debugged has been started already.
+Start it from the beginning? (y or n) 
+Starting program: /home/puzhiyao/2016/Secure Programming/Assignment1/Test/comp/encoder in_argument/StréNg test.jpg 50
+
+Program received signal SIGSEGV, Segmentation fault.
+0x0000000000435afc in stbi_load ()
+Single stepping until exit from function stbi_load,
+which has no line number information.
+
+Program terminated with signal SIGSEGV, Segmentation fault.
+The program no longer exists.
