@@ -1,9 +1,8 @@
 ## Secure Programming ##
 ## Assignment 1 Fuzzing##
-## Student ##
-Student Name: Puzhi Yao
-Student ID: a1205593
-Student Email: a1205593@student.adelaide.edu.au
+
+Author: pz.yao
+Email: a1205593@student.adelaide.edu.au
 ---------------------
 
 ## Instructions ##
