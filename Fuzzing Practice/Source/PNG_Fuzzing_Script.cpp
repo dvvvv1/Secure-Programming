@@ -1,6 +1,5 @@
 //Test script
-//Author: Puzhi Yao
-//ID: a1205593
+//Author: pz.yao
 //Date: 23 Aug 2016
 
 #include <stdio.h>
