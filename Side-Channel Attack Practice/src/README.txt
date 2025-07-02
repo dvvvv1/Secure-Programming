@@ -7,9 +7,9 @@ Email: a1205593@student.adelaide.edu.au
 
 ## Instructions ##
 
-## Assignment 3 : Attack gedit gdk3 ##
+## Assignment 3: Attack gedit gdk3 ##
 
-1. Open terminal
+1. Open the terminal
 
 2. Type: './attack_gedit_GDK3.sh 10 200 gedit' (Start profiling phase)
 
@@ -19,12 +19,12 @@ Email: a1205593@student.adelaide.edu.au
 
 5. Type: './exploitation /usr/lib/x86_64-linux-gnu/libgdk-3.so.0.1000.8 <Memory Address>' to validate each single event address
 
-6. The folder, `Result/gedit`, contains all iteration results for gedit_gdk3 cache template attack.
+6. The folder, `Result/gedit`, contains all iteration results for the gedit_gdk3 cache template attack.
 
 
-## Assignment 3 : Attack Firefox libthread ##
+## Assignment 3: Attack Firefox libthread ##
 
-1. Open terminal
+1. Open the terminal
 
 2. Type: './attack_firefox_libpthread.sh 10 200 Firefox' (Start profiling phase)
 
@@ -39,10 +39,10 @@ Email: a1205593@student.adelaide.edu.au
 ## Instruction END ##
 
 ## Library command ##
-I have used followling command to select target library.
+I have used the following command to select the target library.
 
-1. 'ps -aux | grep Firefox' (This command will get the pid of target program)
+1. 'ps -aux | grep Firefox' (This command will get the pid of the target program)
 
-2. 'cat /proc/<TARGET PID NUMBER HERE>/maps | grep r-x | grep lib' (This command will take the program pid and show all readable and executable file with name lib.
-3. select possible library from the shown list.
+2. 'cat /proc/<TARGET PID NUMBER HERE>/maps | grep r-x | grep lib' (This command will take the program pid and show all readable and executable files with the name lib.
+3. Select a possible library from the shown list.
 
